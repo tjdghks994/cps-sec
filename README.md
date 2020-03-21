@@ -6,4 +6,5 @@
   - 최동준
   - 박성환
     - hp 010-7252-6309
+	- email tjdghks994@gmail.com
   - 최병준
