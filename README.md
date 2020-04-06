@@ -1,12 +1,17 @@
-# cps-sec
-2020년 1학기 cps 실습 수업
+# CPS-SEC
+Chung-Ang univ. 2020-1 term CPS practice class
 
-## 조교
+## Teaching Assistant
 
-  - 최동준
+  - __Dongjun Choi__
     - email zzczzc123@gmail.com
-  - 박성환
-    - hp 010-7252-6309
-	  - email tjdghks994@gmail.com
-    - vscode에서 git commit, push 연습하기
-  - 최병준
+  
+  - __Sunghwan Park__
+    - email tjdghks994@gmail.com
+  
+  - __Byeongjun Choi__
+    - email qudwns2052@gmail.com
+
+## Assignment
+  - Upload your own web-crawler to Github and comment on my issue page
+  - Deadline : 4 / 15 Wed. 23:59
