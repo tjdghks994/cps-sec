@@ -1,5 +1,5 @@
 # CPS-SEC
-Chung-Ang univ. 2020-1 term CPS practice class
+Chung-Ang Univ. 2020-1 term CPS practice class
 
 ## Teaching Assistant
 
