@@ -9,7 +9,7 @@ Chung-Ang Univ. 2020-1 term CPS practice class
   - __Sunghwan Park__
     - email tjdghks994@gmail.com
   
-  - __Byeongjun Choi__
+  - __Byoungjun Choi__
     - email qudwns2052@gmail.com
 
 ## Assignment
