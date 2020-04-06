@@ -5,7 +5,7 @@ import csv
 class scraper :
 
     def __init__(self) : 
-        self.baseURL = "https://kr.indeed.com/jobs?q=python&limit=50"
+        self.baseURL = ""
 
     def allPages(self, pages) :
         res = requests.get(self.baseURL + "&start=" + str(pages))
@@ -40,7 +40,7 @@ class scraper :
         title = []
 
         for c in contents :
-            jobId.append("https://kr.indeed.com/viewjob?jk=" + c.attrs["data-jk"])
+            jobId.append("" + c.attrs["data-jk"])
             title.append(c.find("div", class_ = "title").find("a").text.replace("\n", ""))
             cnt += 1
 
