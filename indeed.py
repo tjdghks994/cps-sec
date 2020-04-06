@@ -2,13 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-class scraper :
+class indeedScraper :
 
     def __init__(self) : 
-        self.baseURL = ""
+        self.url = ""
 
     def allPages(self, pages) :
-        res = requests.get(self.baseURL + "&start=" + str(pages))
+        res = requests.get(self.url + "&start=" + str(pages))
 
         if res.status_code != 200 :
             print("bad request", res.status_code)
@@ -19,7 +19,7 @@ class scraper :
         return soup
 
     def totalPage(self) :
-        res = requests.get(self.baseURL)
+        res = requests.get(self.url)
 
         if res.status_code != 200 :
             print("bad request", res.status_code)
@@ -67,5 +67,5 @@ class scraper :
             self.getContent(i * 50)
 
 if __name__ == "__main__":
-    scraper = scraper()
+    scraper = indeedScraper()
     scraper.scrap()
