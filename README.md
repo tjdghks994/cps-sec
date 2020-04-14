@@ -19,5 +19,6 @@ Chung-Ang Univ. 2020-1 term CPS practice class
 ## Online Class
   - 2nd class           https://youtu.be/ETUhQjHbojI
   - 4th class           https://youtu.be/bfQZYy2tx7g
+  - 4th class_GUI       https://youtu.be/d4AKW0rYR5Y
   - 4th class_golang    https://youtu.be/yq5t5n5A1Mc
   - 4th class_golang_2  https://youtu.be/c1zeTwM08NA
