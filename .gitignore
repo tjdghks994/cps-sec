@@ -133,4 +133,6 @@ pip-selfcheck.json
 
 *.csv
 
+chromedriver
+
 # End of https://www.gitignore.io/api/venv,python,visualstudiocode
