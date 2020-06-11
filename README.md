@@ -40,15 +40,15 @@ Chung-Ang Univ. 2020-1 term CPS practice class
   
   ## Team Project
   - Group 1
-    - Team 1  : [parkingManager](https://github.com/hemoi/parkingManager_cps)
-    - Team 2  : ["범죄 예방을 위한 미허가 출입/탐지 모델"]: https://github.com/BornDosirak/CPS
-    - Team 3  : ["유해동물 감지 시스템"]: https://github.com/eunjineunjin/2020-CPS-project.git
-    - Team 4  : ["사용자 방문기록 크롤링 및 분석 프로젝트"]: https://github.com/wkj719/cps-sec.git
-    - Team 5  : ["IP Camera 해킹"]: https://github.com/devahws/CPSSecurity.git
+    - Team 1  : ["parkingManager"](https://github.com/hemoi/parkingManager_cps)
+    - Team 2  : ["범죄 예방을 위한 미허가 출입/탐지 모델"](https://github.com/BornDosirak/CPS)
+    - Team 3  : ["유해동물 감지 시스템"](https://github.com/eunjineunjin/2020-CPS-project)
+    - Team 4  : ["사용자 방문기록 크롤링 및 분석 프로젝트"](https://github.com/wkj719/cps-sec)
+    - Team 5  : ["IP Camera 해킹"](https://github.com/devahws/CPSSecurity)
   
   - Group 2
-    - Team 6  : ["Chaotic-Subway"]: https://github.com/iSuddenly/Chaotic-Subway.git
-    - Team 7  : ["스마트 홈 사용자 편의 증진을 위한 기기별 데이터 수집 모델"]: https://github.com/NownS/CPS_TP7.git
-    - Team 8  : ["CPS Security Local Network Scanner"]: https://github.com/isakgb/CPS_Sec_LocalScanner.git
-    - Team 9  : ["IoT Security 감성분석"]: https://github.com/SoMinHyung/CPS_Project.git
-    - Team 10 : ["코로나 시대에서 살아남는 길"]: https://github.com/leeseunghow/cps-IOT-project.git
+    - Team 6  : ["Chaotic-Subway"](https://github.com/iSuddenly/Chaotic-Subway)
+    - Team 7  : ["스마트 홈 사용자 편의 증진을 위한 기기별 데이터 수집 모델"](https://github.com/NownS/CPS_TP7)
+    - Team 8  : ["CPS Security Local Network Scanner"](https://github.com/isakgb/CPS_Sec_LocalScanner)
+    - Team 9  : ["IoT Security 감성분석"](https://github.com/SoMinHyung/CPS_Project)
+    - Team 10 : ["코로나 시대에서 살아남는 길"](https://github.com/leeseunghow/cps-IOT-project)
