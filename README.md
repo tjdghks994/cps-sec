@@ -40,7 +40,7 @@ Chung-Ang Univ. 2020-1 term CPS practice class
   
   ## Team Project
     - Group 1
-      - Team 1  : ["parkingManager"]: https://github.com/hemoi/parkingManager_cps.git
+      - Team 1  : [parkingManager]: https://github.com/hemoi/parkingManager_cps.git
       - Team 2  : ["범죄 예방을 위한 미허가 출입/탐지 모델"]: https://github.com/BornDosirak/CPS.git
       - Team 3  : ["유해동물 감지 시스템"]: https://github.com/eunjineunjin/2020-CPS-project.git
       - Team 4  : ["사용자 방문기록 크롤링 및 분석 프로젝트"]: https://github.com/wkj719/cps-sec.git
